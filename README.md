@@ -29,12 +29,6 @@ Raw Data (GCS)
 → BigQuery Data Warehouse
 → Looker Studio Dashboard
 
-### 📊 Architecture Diagram
-
-```
-!![Architecture]("Project_Architecture.png")
-```
-
 ---
 
 ## 🛠️ Technology Stack
