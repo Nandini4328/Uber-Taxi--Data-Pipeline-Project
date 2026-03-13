@@ -29,11 +29,9 @@ Raw Data (GCS)
 
 ### 📊 Architecture Diagram
 
-``
+`
 ![Architecture](images/architecture.png)
 ```
-
----
 
 ## 🛠️ Technology Stack
 
