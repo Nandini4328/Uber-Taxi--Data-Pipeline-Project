@@ -69,8 +69,10 @@ Trip records contain:
 
 ### Dataset Resources
 
-* TLC Trip Data Website
-* Yellow Taxi Data Dictionary (PDF)
+More info about dataset can be found here:
+1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
 
 ---
 
@@ -147,24 +149,6 @@ After loading, Looker Studio connects to BigQuery for building dashboards that v
 * Built production-style ETL orchestration using Mage.ai
 * Enabled analytical reporting through BI dashboards
 * Demonstrated end-to-end modern data engineering workflow
-
----
-
-## 📁 Project Structure
-
-```
-uber-data-engineering-gcp/
-│
-├── data/                  # Raw / sample datasets
-├── mage_pipeline/         # Mage.ai pipeline components
-│   ├── extractors/
-│   ├── transformers/
-│   └── loaders/
-├── notebooks/             # Exploratory data analysis
-├── scripts/               # Utility Python scripts
-├── requirements.txt
-└── README.md
-```
 
 ---
 
