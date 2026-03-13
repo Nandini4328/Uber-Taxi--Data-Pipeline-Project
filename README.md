@@ -32,7 +32,7 @@ Raw Data (GCS)
 ### 📊 Architecture Diagram
 
 ```
-<img src="Project_Architecture.png">
+![Architecture](Project_Architecture.png)
 ```
 
 ---
