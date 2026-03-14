@@ -1,8 +1,6 @@
 # Uber-Taxi--Data-Pipeline-Project
 End-to-end data engineering pipeline on Google Cloud Platform for processing Uber trip data using Mage.ai, BigQuery, and Looker Studio for analytics and dashboard visualization.
 
-# 🚕 NYC Taxi Data Engineering Pipeline on GCP
-
 ## 📌 Project Overview
 
 This project implements an end-to-end **batch data engineering pipeline** on Google Cloud Platform (GCP) to process and analyze NYC Taxi & Limousine Commission (TLC) trip record data.
